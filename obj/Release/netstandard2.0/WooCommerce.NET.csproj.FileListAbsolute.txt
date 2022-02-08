@@ -1,0 +1,10 @@
+C:\Saas\Kroconnect\Kroconnect\WooCommerce.NET\bin\Release\netstandard2.0\WooCommerce.NET.deps.json
+C:\Saas\Kroconnect\Kroconnect\WooCommerce.NET\bin\Release\netstandard2.0\WooCommerce.NET.dll
+C:\Saas\Kroconnect\Kroconnect\WooCommerce.NET\bin\Release\netstandard2.0\WooCommerce.NET.pdb
+C:\Saas\Kroconnect\Kroconnect\WooCommerce.NET\obj\Release\netstandard2.0\WooCommerce.NET.csproj.AssemblyReference.cache
+C:\Saas\Kroconnect\Kroconnect\WooCommerce.NET\obj\Release\netstandard2.0\WooCommerce.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Saas\Kroconnect\Kroconnect\WooCommerce.NET\obj\Release\netstandard2.0\WooCommerce.NET.AssemblyInfoInputs.cache
+C:\Saas\Kroconnect\Kroconnect\WooCommerce.NET\obj\Release\netstandard2.0\WooCommerce.NET.AssemblyInfo.cs
+C:\Saas\Kroconnect\Kroconnect\WooCommerce.NET\obj\Release\netstandard2.0\WooCommerce.NET.csproj.CoreCompileInputs.cache
+C:\Saas\Kroconnect\Kroconnect\WooCommerce.NET\obj\Release\netstandard2.0\WooCommerce.NET.dll
+C:\Saas\Kroconnect\Kroconnect\WooCommerce.NET\obj\Release\netstandard2.0\WooCommerce.NET.pdb

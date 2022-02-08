@@ -36,6 +36,14 @@ Changes Doc: https://github.com/XiaoFaye/WooCommerce.NET/blob/master/Changes.md
     <PackageTags>WooCommerce Wordpress Restful API</PackageTags>
   </PropertyGroup>
 
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <WarningLevel>5</WarningLevel>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <WarningLevel>5</WarningLevel>
+  </PropertyGroup>
+
   <ItemGroup>
     <None Include="License.md">
       <Pack>True</Pack>
