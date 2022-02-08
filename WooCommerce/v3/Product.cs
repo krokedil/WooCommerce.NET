@@ -254,7 +254,7 @@ namespace WooCommerceNET.WooCommerce.v3
         /// Stock management at product level. Default is false.
         /// </summary>
         [DataMember(EmitDefaultValue = false)]
-        public object? manage_stock { get; set; }
+        public object manage_stock { get; set; }
 
         [DataMember(EmitDefaultValue = false, Name = "stock_quantity")]
         protected object stock_quantityValue { get; set; }
