@@ -78,6 +78,9 @@ namespace WooCommerceNET.Base
             }
         }
 
+        // Add default lang properties to all JsonObject items
+        [DataMember(EmitDefaultValue = false)]
+        public string lang { get; set; }
 
         //[OnDeserializing]
         //void tset(StreamingContext ctx)
